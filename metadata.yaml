@@ -1,0 +1,40 @@
+_repo: Some-old-masters-of-Greek-architecture_75561
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Farrand, Charles D.
+    birthdate: 1865
+    gutenberg_agent_id: '51641'
+    url: http://www.gutenberg.org/2009/agents/51641
+creator:
+  author:
+    agent_name: Douglas, Harry
+    birthdate: 1857
+    deathdate: 1938
+    gutenberg_agent_id: '58052'
+    url: http://www.gutenberg.org/2009/agents/58052
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75561'
+  lccn: '00001424'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t99602811
+pgterms:marc905: 20241017050347douglas
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aGreat Barrington :$bQuarter-Oak, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Greek'
+- !lcsh 'Architecture -- Greece'
+- !lcc 'NA'
+- GITenberg
+title: Some old masters of Greek architecture
+url: http://www.gutenberg.org/ebooks/75561

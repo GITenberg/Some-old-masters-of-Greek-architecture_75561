@@ -6,6 +6,9 @@ contributor:
     birthdate: 1865
     gutenberg_agent_id: '51641'
     url: http://www.gutenberg.org/2009/agents/51641
+covers:
+- cover_type: archival
+  image_path: 75561-h/images/cover.jpg
 creator:
   author:
     agent_name: Douglas, Harry
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '58052'
     url: http://www.gutenberg.org/2009/agents/58052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75561#Some-old-masters-of-Greek-architecture
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
 identifiers:
